@@ -1,2 +1,2 @@
 # mycode
-I just started coding.....
+I just started coding
